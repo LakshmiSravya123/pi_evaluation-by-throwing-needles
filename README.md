@@ -13,5 +13,5 @@ Python
 
 # References
 1) http://mathworld.wolfram.com/CirclePointPicking.html
-2) https://github.com/kgodden/monte ̇carlo ̇pi/blob/master/montecarlopi.py
-3) https://github.com/kgodden/buffon ̇needle/blob/master/buffon.py
+2) https://github.com/kgodden/monte'car'lo'pi/blob/master/montecarlopi.py
+3) https://github.com/kgodden/buffon'needle/blob/master/buffon.py
