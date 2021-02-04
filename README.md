@@ -10,3 +10,8 @@ The main issue with original Buffon’s experiment is using the value of π in t
 
 # Language
 Python
+
+# References
+1) http://mathworld.wolfram.com/CirclePointPicking.html
+2) https://github.com/kgodden/monte ̇carlo ̇pi/blob/master/montecarlopi.py
+3) https://github.com/kgodden/buffon ̇needle/blob/master/buffon.py
